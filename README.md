@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = DlViewTool::Renderer.copyright 'your name', 'All rights reserved.'
+```
 
 ## Development
 
